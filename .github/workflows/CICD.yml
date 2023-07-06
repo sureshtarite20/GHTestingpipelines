@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   pull_request:
-    branches: [ testing ]
+    branches: [ main ]
   # workflow_dispatch:
 
 #suresh
